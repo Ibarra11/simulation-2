@@ -1,0 +1,38 @@
+.house-card{
+    display: flex;
+    padding: 10px;
+    background-color: #dedede;
+    margin-bottom: 15px;
+}
+
+.house-img-container{
+    width: 35%;
+    height: auto;
+    padding: 5px 0;
+    margin-right: 10px;
+}
+
+.house-img{
+    width: 100%;
+    height: 100%;
+}
+
+.house-details{
+    display: flex;
+    position: relative;
+}
+
+.house-details-1{
+    width: 50%;
+}
+
+.delete-house{
+    position: absolute;
+    right: -10px;
+    top: 0;
+}
+
+p{
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,36 @@
+.dashboard-component{
+    background-color: #e5F4Ec;
+    width: 50%;
+    margin: 0 auto;
+    height: 85vh;
+    padding: 0 15px;
+}
+
+.dashboard-header{
+    display: flex;
+    padding: 15px;
+    border-bottom: 2px solid black;
+    margin-bottom: 20px;
+}
+
+.dash-main{
+    color: black;
+    position: relative;
+    left: 0;
+}
+
+h3{
+    margin-left: 15px;
+    margin-bottom: 25px;
+}
+
+.dash-link:link, .dash-link:visited{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #afd4c0;
+    position: relative;
+    left: 180px;
+}

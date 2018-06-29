@@ -1,0 +1,61 @@
+.wizard-component{
+    background-color: #e5f4ec;
+    position: relative;
+    height: 85vh;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.wizard-header{
+    display: flex;
+    padding: 20px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+p{
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+.image-input{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.wizard-step-2{
+    margin-top: 40px;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.step1-button{
+    position: relative;
+    top: 115px;
+}
+
+.step2-button{
+    position: relative;
+    top: 250px
+}
+
+.step3-button{
+    position: relative;
+    top: 225px
+}
+
+.navigation button{
+    background-color: #3b5249;
+    padding: 15px;
+    color: white;
+}
+
+.cancel-button{
+    padding: 10px;
+    background-color: #fec2c2;
+}
+
